@@ -1,0 +1,8 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Andre Castro profile mark</title>
+  <desc id="desc">A clean abstract profile mark with the initials AC.</desc>
+  <rect width="320" height="320" rx="28" fill="#17324d"/>
+  <circle cx="236" cy="72" r="46" fill="#f2b84b"/>
+  <path d="M62 232c28-70 58-112 89-112 34 0 62 42 86 112h-45l-14-39h-59l-15 39H62zm70-74h34l-16-45-18 45z" fill="#f7f4ee"/>
+  <path d="M211 111c17-14 38-20 63-19v40c-20-2-36 3-48 15-11 12-17 29-17 51 0 20 6 36 17 48 12 12 28 17 48 15v40c-25 1-46-5-63-18-28-21-43-50-43-86 0-36 15-65 43-86z" fill="#75c0b3"/>
+</svg>
